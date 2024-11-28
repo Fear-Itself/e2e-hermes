@@ -110,6 +110,6 @@ export default {
 	},
 
 	client: {
-		title: 					'Cryptalk - Offline'
+		title: 					'Hermes - Offline'
 	}
 };
