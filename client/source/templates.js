@@ -3,7 +3,7 @@
 export default {
 
 	help: '<pre>                                                                \n' +
-		'Cryptalk, encrypted instant chat.                                      \n' +
+		'Hermes, encrypted instant chat.                                      \n' +
 		'                                                                       \n' +
 		'----------------------------------------------------------------------	\n' +
 		'                                                                       \n' +
